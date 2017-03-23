@@ -10,7 +10,7 @@ object Main41 extends App {
 </ul>
   )
 
-  println(SELECT * FROM language WHERE isScalable)
+  println(SELECT * FROM language)
 
   println(UUID.random)
 }
